@@ -1,0 +1,20 @@
+/* Main Page */
+a{
+    text-decoration: none;
+}
+
+.list{
+    list-style: none;
+}
+body {
+    position: relative;
+    width: 1440px;
+    height: 2592px;
+    background: #FFFFFF;
+}
+
+/* HEADER */
+
+.header {
+
+}
