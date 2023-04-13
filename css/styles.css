@@ -15,10 +15,6 @@ body {
 
 /* HEADER */
 
-.logo {
-    width: 115px;
-height: 24px;
-}
 
 .web-logo {
     color: #4D5AE5;
@@ -28,7 +24,7 @@ font-size: 18px;
 line-height: 21px;
 }
 
-.second-logo {
+.logo {
     color: #2E2F42;
     font-family: 'Raleway';
 font-weight: 800;
@@ -76,7 +72,6 @@ background: #2E2F42;
     color: #FFFFFF;
     font-family: 'Roboto';
 text-align: center;
-font-style: normal;
 letter-spacing: 0.02em;
 font-weight: 700;
 font-size: 56px;
@@ -105,32 +100,30 @@ letter-spacing: 0.04em;
 color: #FFFFFF;
 }
 
-/* Sekcja 1 */
+/* OUR SKIILS */
 
-.important-names {
-color: #2E2F42;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
+.our-skills{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
-.description-item {
-    color: #434455;
+.description-skills {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
 letter-spacing: 0.02em;
+color: #434455;
 }
 
-/* Sekcja 2 */
 
-.electronic-staff {
+/* Sekcja 1 */
+.our-electronic{
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
@@ -160,7 +153,6 @@ top: 1128px;
 .our-team {
     color: #2E2F42;
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 40px;
