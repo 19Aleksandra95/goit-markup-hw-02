@@ -43,6 +43,7 @@ height: 24px;
 }
 
 
+
 /* ADRESS */
 
 .mail {
@@ -91,7 +92,6 @@ gap: 10px;
 }
 
 .order-service {
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
@@ -170,7 +170,6 @@ mix-blend-mode: normal;
 
 .names {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -181,7 +180,6 @@ color: #2E2F42;
 
 .skills {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -198,7 +196,6 @@ color: #434455;
 
 .footer-web {
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 21px;
@@ -211,7 +208,6 @@ color: #4D5AE5;
 
 .footer-logo {
     font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 21px;
@@ -224,7 +220,6 @@ color: #F4F4FD;
 
 .footer-desctription {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -245,7 +240,6 @@ color: #F4F4FD;
 
 .header-item {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
@@ -323,7 +317,6 @@ color: #2E2F42;
 }
 .text {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -349,7 +342,6 @@ border: 1px solid #E7E9FC;
 
 .description-folder-two {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -359,7 +351,6 @@ color: #2E2F42;
 
 .marketing-folder-two {
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -376,7 +367,6 @@ border: 1px solid #E7E9FC;
 
 .desctription-folder-three {
      font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px;
@@ -386,7 +376,6 @@ color: #2E2F42;
 
 .webside-folder-three {
         font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -402,7 +391,6 @@ color: #434455;
 
 .footer-webstudio {
     font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 21px;
@@ -415,7 +403,6 @@ color: #F4F4FD;
 
 .footer-first-logo {
     font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 21px;
@@ -428,7 +415,6 @@ color: #4D5AE5;
 
 .description-increase{
     font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
