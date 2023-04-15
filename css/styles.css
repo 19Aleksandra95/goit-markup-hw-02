@@ -268,7 +268,6 @@ body {
 }
 .body-portfolio {
   background: #ffffff;
-  font-family: 'Roboto';
 }
 
 .dot {
@@ -287,24 +286,22 @@ body {
     color: #2E2F42;
     font-weight: 800;
     font-size: 18px;
-    line-height: 0.8;
-    display: flex;
-    align-items: center;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
 }
 
 .portfolio-web {
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 0.8;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: #4D5AE5;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #4D5AE5;
 }
 
 .mail-port,
