@@ -25,6 +25,7 @@ body {
 
 .second-logo {
   text-transform: uppercase;
+  text-decoration: none
   color: #2e2f42;
   font-family: "Raleway";
   font-weight: 800;
@@ -87,6 +88,7 @@ body {
 
 .hero-item {
   color: #ffffff;
+  text-decoration: none;
   font-family: inherit;
   text-align: center;
   letter-spacing: 0.03em;
@@ -129,6 +131,7 @@ body {
 
 .description-skills {
   font-family: "Roboto";
+  text-decoration: none;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -434,6 +437,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
   color: #f4f4fd;
 }
 
@@ -456,4 +460,5 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  text-decoration: none
 }
