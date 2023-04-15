@@ -345,9 +345,6 @@ body {
 
 /* SEKCJA 1 */
 
-.section-number-one {
-  background: #e7e9fc;
-}
 
 .portfolio-images {
   background: #ffffff;
@@ -381,10 +378,6 @@ body {
 
 /* SEKCJA 2 */
 
-.section-number-two {
-  background: #ffffff;
-  border: 1px solid #e7e9fc;
-}
 
 .description-folder-two {
   font-family: "Roboto";
