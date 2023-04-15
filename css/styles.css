@@ -23,15 +23,6 @@ body {
 
 /* HEADER */
 
-.web-logo {
-  text-transform: uppercase;
-  color: #4d5ae5;
-  font-family: "Raleway";
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-}
-
 .second-logo {
   text-transform: uppercase;
   color: #2e2f42;
@@ -42,15 +33,20 @@ body {
 }
 
 .logo {
+  font-family: 'Raleway';
   text-decoration: none;
   text-transform: uppercase;
-  color: #2e2f42;
-  letter-spacing: 0.02em;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  color: #4d5ae5;
+  letter-spacing: 0.03em;
 }
 
 .nav-item {
   color: #2e2f42;
   font-family: "Roboto";
+  text-decoration: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.17;
@@ -68,6 +64,7 @@ body {
   font-size: 16px;
   line-height: 1.17;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 .phone-number {
@@ -77,6 +74,7 @@ body {
   font-size: 16px;
   line-height: 1.17;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 /* MAIN CONTEINER */
@@ -200,7 +198,7 @@ body {
   font-family: "Roboto";
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.11;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
@@ -315,12 +313,12 @@ body {
   letter-spacing: 0.04em;
 }
 
-.click-button :focus .click-button :hover {
-  color: #ffffff;
-  background: #404bbf;
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
-    0px 2px 2px rgba(0, 0, 0, 0.12);
-  border-radius: 4px;
+.color-btn:focus,
+.color-btn:hover{
+    color: #ffffff;
+    background: #404BBF;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
 }
 
 /* SEKCJA 1 */
