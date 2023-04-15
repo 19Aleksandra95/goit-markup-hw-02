@@ -434,7 +434,7 @@ body {
 
 .background-footer {
   background: #2e2f42;
-  color: #434455;
+  color: #4d5ae5;
 }
 
 .footer-webstudio {
@@ -462,8 +462,20 @@ body {
   color: #4d5ae5;
 }
 
+.studio-portfolio {
+  font-family: 'Raleway';
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
+}
+
 .description-increase {
-  font-family: "Roboto";
+  font-family: "Raleway";
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
