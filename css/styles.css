@@ -25,7 +25,7 @@ body {
 
 .second-logo {
   text-transform: uppercase;
-  text-decoration: none
+  text-decoration: none;
   color: #2e2f42;
   font-family: "Raleway";
   font-weight: 800;
@@ -79,6 +79,14 @@ body {
 }
 
 /* MAIN CONTEINER */
+.our-strategy{
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 
 .hero {
   width: 1440px;
@@ -341,7 +349,7 @@ body {
   background: #e7e9fc;
 }
 
-.first-img {
+.portfolio-images {
   background: #ffffff;
   border: 1px solid #e7e9fc;
 }
@@ -362,11 +370,11 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.second-img {
+.second-section-images {
   border: 1px solid #e7e9fc;
   background: #ffffff;
 }
-.thrid-img {
+.third-section-images {
   border: 1px solid #e7e9fc;
   background: #ffffff;
 }
