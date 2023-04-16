@@ -147,7 +147,7 @@ text-transform: capitalize;
 
 
 .employee-item {
-  background-color: var(--third-color-background)
+  background-color: var(--filter-button)
 }
 
 .names {
@@ -199,7 +199,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
 color: var(--logo-web-color);
-background-color: var(--first-color-background);
+background-color: #f4f4fd;
 }
 
 .bookmarks {
