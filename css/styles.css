@@ -86,7 +86,7 @@ letter-spacing: 0.02em;
 /* HERO */
 
 .hero {
-  background-color: var(--logo-web-color);
+  background-color: var(--second-text-color);
 }
 
 .hero-item {
