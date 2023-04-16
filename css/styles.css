@@ -27,11 +27,15 @@ body {
 }
 
 .hidden {
+  position: absolute;
   width: 1px;
   height: 1px;
   margin: -1px;
   border: 0;
   padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
   overflow: hidden;
 }
 
@@ -64,7 +68,7 @@ letter-spacing: 0.02em;
 }
 
 .address{
-font-family: normal;
+font-style: normal;
 }
 
 .address-item {
@@ -91,17 +95,19 @@ font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
+text-align: center;
 }
 
 
 .hero-button {
   background-color: var(--logo-web-color);
   color: var(--first-color-background);
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
+cursor: pointer;
 }
 
 .hero-button:hover,
@@ -129,6 +135,7 @@ letter-spacing: 0.02em;
 
 .what-are-we-doing,
 .our-team {
+  background-color: var(--first-color-background);
   color: var(--second-text-color);
 font-weight: 700;
 font-size: 36px;
@@ -148,6 +155,7 @@ text-transform: capitalize;
 
 .names {
 color: var(--second-text-color);
+text-align: center;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -211,7 +219,9 @@ border-radius: 4px;
 }
 
 .description-folder {
+  background-color: var(--filter-button);
   color: var(--second-text-color);
+  text-align: center;
   font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
