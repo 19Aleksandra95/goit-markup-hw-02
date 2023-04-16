@@ -9,7 +9,7 @@
   --logo-web-color:  #4D5AE5;
   --filter-button: #f4f4fd;
   --footer-background: #2e2f42;
-  --button-active: #404bbf;
+  --button-active: #404bbf,  #4D5AE5;
 }
 
 body {
@@ -86,7 +86,7 @@ letter-spacing: 0.02em;
 /* HERO */
 
 .hero {
-  background-color: var(--logo-web-color);
+  background-color: var(--second-text-color);
 }
 
 .hero-item {
