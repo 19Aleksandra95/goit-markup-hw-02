@@ -144,9 +144,6 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
-.img {
-  background-color: var(--third-text-color);
-}
 
 .employee-item {
   background-color: var(--third-color-background)
