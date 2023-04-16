@@ -110,12 +110,13 @@ letter-spacing: 0.04em;
 cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus {
+.hero-button,
+.hero-button,
+.click-button:hover,
+.click-button:focus {
   background-color: var(--button-active);
   color: var(--third-color-background);
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-border-radius: 4px;
+
 }
 
 .our-skills {
@@ -182,11 +183,6 @@ letter-spacing: 0.02em;
 
 .footer-logo {
   color: var(--filter-button);
-  font-weight: 800;
-font-size: 18px;
-line-height: 1.16;
-letter-spacing: 0.03em;
-text-transform: uppercase;
 }
 
 /* PORTFOLIO */
@@ -204,14 +200,6 @@ letter-spacing: 0.04em;
 cursor: pointer;
 color: var(--logo-web-color);
 background-color: var(--second-color-background);
-}
-
-.click-button:hover,
-.click-button:focus {
-  background-color: var(--button-active);
-  color: var(--first-color-background);
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-border-radius: 4px;
 }
 
 .bookmarks {
@@ -235,3 +223,4 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
+
