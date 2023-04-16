@@ -15,7 +15,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--first-text-color);
-  background-color: var(--first-color-background);
+  background-color: var(--third-color-background);
 }
 
 .list {
@@ -188,7 +188,7 @@ letter-spacing: 0.02em;
 /* PORTFOLIO */
 
 .background-section-portfolio{
-background-color: var(--filter-button);
+background-color: var(--first-color-background);
 }
 
 .click-button {
@@ -199,7 +199,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
 color: var(--logo-web-color);
-background-color: var(--second-color-background);
+background-color: var(--first-color-background);
 }
 
 .bookmarks {
