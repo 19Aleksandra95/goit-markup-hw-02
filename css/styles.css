@@ -9,7 +9,7 @@
   --logo-web-color: #404bbf;
   --filter-button: #f4f4fd;
   --footer-background: #2e2f42;
-  --button-active:  #4D5AE5;
+  --button-active:  #4d5ae5;
 
 }
 
@@ -87,7 +87,7 @@ letter-spacing: 0.02em;
 /* HERO */
 
 .hero {
-  background-color: var(--button-active);
+  background-color: var(--footer-background);
 }
 
 .hero-item {
