@@ -191,6 +191,10 @@ text-transform: uppercase;
 
 /* PORTFOLIO */
 
+.background-section-portfolio{
+background-color: var(--filter-button);
+}
+
 .click-button {
   font-family: 'Roboto', sans-serif;
 font-weight: 500;
