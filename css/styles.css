@@ -43,7 +43,7 @@ body {
 /* HEADER*/
 
 .logo {
-  color: var(--logo-web-color);
+  color: var(--button-active);
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
 font-size: 18px;
@@ -81,7 +81,7 @@ letter-spacing: 0.02em;
 
 .address-item:hover,
 .address-item:focus {
-  color: var(--button-active);
+  color: var(--logo-web-color);
 }
 
 /* HERO */
@@ -115,7 +115,7 @@ cursor: pointer;
 .hero-button,
 .click-button:hover,
 .click-button:focus {
-  background-color: var(--button-active);
+  background-color: var(--logo-web-color);
   color: var(--third-color-background);
 
 }
@@ -199,7 +199,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
-color: var(--logo-web-color);
+color: var(--button-active);
 background-color: #f4f4fd;
 }
 
