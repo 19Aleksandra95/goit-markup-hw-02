@@ -176,6 +176,15 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
+.footer-logo {
+  color: var(--filter-button);
+  font-weight: 800;
+font-size: 18px;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
 /* PORTFOLIO */
 
 .click-button {
