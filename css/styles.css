@@ -90,7 +90,7 @@ letter-spacing: 0.02em;
 }
 
 .hero-item {
-  color: var(--third-color-background);
+  color: var(--logo-web-color);
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -207,7 +207,7 @@ background-color: var(--first-color-background);
 }
 
 .description-folder {
-  background-color: var(--filter-button);
+  background-color: var(--first-color-background);
   color: var(--second-text-color);
   text-align: center;
   font-weight: 500;
