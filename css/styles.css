@@ -114,7 +114,7 @@ cursor: pointer;
 .hero-button,
 .click-button:hover,
 .click-button:focus {
-  background-color:var(--logo-text-color);
+  background-color: var(--button-active);
   color: var(--third-text-color);
 
 } 
