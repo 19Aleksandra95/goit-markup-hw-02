@@ -111,10 +111,14 @@ cursor: pointer;
 }
 
 .hero-button,
-.hero-button,
+.hero-button
+{
+  background-color: var(--button-active);
+  color: var(--third-text-color);
+}
 .click-button:hover,
 .click-button:focus {
-  background-color: var(--button-active);
+  background-color: var(--logo-text-color);
   color: var(--third-text-color);
 
 } 
